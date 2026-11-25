@@ -1,5 +1,5 @@
 -- ICT371 | Question 10: Scholarship Application Assessment
--- Compiled by MULAKO MUYOBA JR. | Student number: 202407184
+-- Compiled by MULAKO MUYOBA  | Student number: 202407184
 -- Eligibility: age 18-25, monthly income <= K3,000, average mark >= 70.
 
 CREATE TABLE students (
