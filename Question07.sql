@@ -1,5 +1,5 @@
 -- ICT371 | Question 7: Water Meter Readings and Billing
--- Compiled by MULAKO MUYOBA JR. | Student number: 202407184
+-- Compiled by MULAKO MUYOBA  | Student number: 202407184
 -- Tariff: first 10 units K5 each; units above 10 K8 each.
 
 CREATE TABLE customers (
