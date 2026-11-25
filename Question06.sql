@@ -1,5 +1,5 @@
 -- ICT371 | Question 6: Monthly Payroll Processing
--- Compiled by MULAKO MUYOBA JR. | Student number: 202407184
+-- Compiled by MULAKO MUYOBA | Student number: 202407184
 -- Gross = basic salary + allowance; net = gross - fixed deduction.
 
 CREATE TABLE employees (
