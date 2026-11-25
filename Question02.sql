@@ -1,5 +1,5 @@
 -- ICT371 | Question 2: University Fee Payments
--- Compiled by MULAKO MUYOBA JR. | Student number: 202407184
+-- Compiled by MULAKO MUYOBA  | Student number: 202407184
 -- PostgreSQL
 
 CREATE TABLE students (
