@@ -1,5 +1,5 @@
 -- ICT371 | Question 8: Transport Fleet Maintenance
--- Compiled by MULAKO MUYOBA JR. | Student number: 202407184
+-- Compiled by MULAKO MUYOBA  | Student number: 202407184
 -- Service alert threshold: 5,000 km since last service.
 
 CREATE TABLE vehicles (
