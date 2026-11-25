@@ -1,5 +1,5 @@
 -- ICT371 | Question 3: Library Returns and Overdue Fines
--- Compiled by MULAKO MUYOBA JR. | Student number: 202407184
+-- Compiled by MULAKO MUYOBA  | Student number: 202407184
 -- PostgreSQL; hypothetical fine is K2 per overdue day.
 
 CREATE TABLE books (
