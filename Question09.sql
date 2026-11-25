@@ -1,5 +1,5 @@
 -- ICT371 | Question 9: Farmer Cooperative Maize Deliveries
--- Compiled by MULAKO MUYOBA JR. | Student number: 202407184
+-- Compiled by MULAKO MUYOBA  | Student number: 202407184
 -- Rates: Grade A K5/kg, B K4/kg, C K3/kg.
 
 CREATE TABLE farmers (
